@@ -1,3 +1,10 @@
+---
+layout: post
+title : Manage Windows 2012 Core with Windows Admin
+---
+
+# Manage Windows 2012 Core with Windows Admin
+
 1. Install Windows 2012 Core as usual
 2. Write down your environment :
 	Using sconfig, change some parameter here :

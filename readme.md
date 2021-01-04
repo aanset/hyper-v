@@ -1,0 +1,1 @@
+This is tutorial to manage windows 2012 core installation
